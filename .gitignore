@@ -2,3 +2,4 @@
 .tmp/*
 Backup/*
 .archive/*
+Log/OrbbecSDK.log.txt
